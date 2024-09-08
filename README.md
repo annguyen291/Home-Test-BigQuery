@@ -1,4 +1,4 @@
-# [SQL] Home Test Interview
+# [SQL] Home Test
 ## I. Introduction
 This project contains a dataset with few questions that I will explore using SQL on [Google BigQuery](https://cloud.google.com/bigquery).
 ## II. Requirements
